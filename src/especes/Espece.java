@@ -9,7 +9,7 @@ public class Espece implements Serializable, Cloneable{
 	public int agres;//agressivite
 	public int force;//Force de l'individu 
 	public int agili;//agilité
-	public int space;//espace necessaire a chaques individu pour vivre(
+	public int space;//espace necessaire a chaques individu pour vivre(ex au pif: humain: 40 m2, programme, 1 mm2...)
  
 	
 }
